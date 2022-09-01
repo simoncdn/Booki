@@ -209,22 +209,22 @@ nav ul li a{
 }
 
 .cards-container .card .card-1{
-    background: url(/images/hebergements/2_large/Auberge_de_la_Cannebiere.jpg);
+    background: url(images/hebergements/2_large/Auberge_de_la_Cannebiere.jpg);
 }
 .cards-container .card .card-2{
-    background: url(/images/hebergements/2_large/Hotel_du_port.jpg);
+    background: url(images/hebergements/2_large/Hotel_du_port.jpg);
 }
 .cards-container .card .card-3{
-    background: url(/images/hebergements/2_large/Hotel_des_Mouettes.jpg);
+    background: url(images/hebergements/2_large/Hotel_des_Mouettes.jpg);
 }
 .cards-container .card .card-4{
-    background: url(/images/hebergements/2_large/Hotel_de_la_mer.jpg);
+    background: url(images/hebergements/2_large/Hotel_de_la_mer.jpg);
 }
 .cards-container .card .card-5{
-    background: url(/images/hebergements/2_large/Auberge_Le_panier.jpg);
+    background: url(images/hebergements/2_large/Auberge_Le_panier.jpg);
 }
 .cards-container .card .card-6{
-    background: url(/images/hebergements/2_large/Hotel_chez_Amina.jpg);
+    background: url(images/hebergements/2_large/Hotel_chez_Amina.jpg);
 }
 .cards-container .card .card-img{
     background-size: cover;
@@ -329,13 +329,13 @@ nav ul li a{
 }
 
 .card-pop-container .card-pop .pop-image1{
-    background: url(/images/hebergements/2_large/Hotel_du_soleil.jpg);
+    background: url(images/hebergements/2_large/Hotel_du_soleil.jpg);
 }
 .card-pop-container .card-pop .pop-image2{
-    background: url(/images/hebergements/2_large/Au_coeur_de_leau.jpg);
+    background: url(images/hebergements/2_large/Au_coeur_de_leau.jpg);
 }
 .card-pop-container .card-pop .pop-image3{
-    background: url(/images/hebergements/2_large/Hotel_Tout_bleu_et_blanc.jpg);
+    background: url(images/hebergements/2_large/Hotel_Tout_bleu_et_blanc.jpg);
 }
 .card-pop-container .card-pop .card-pop-img{
     background-size: cover;
@@ -415,7 +415,7 @@ nav ul li a{
     margin-right: 20px;
 }
 .activity-1 .image1{
-    background: url(/images/activites/1_xlarge/Vieux_port.jpg);
+    background: url(images/activites/1_xlarge/Vieux_port.jpg);
     background-size: 690px;
     background-position: 51% 20%;
     height: 390px;
@@ -427,7 +427,7 @@ nav ul li a{
     margin-left: 20px;
 }
 .activity-2 .image2{
-    background: url(/images/activites/1_xlarge/Fort.jpg);
+    background: url(images/activites/1_xlarge/Fort.jpg);
     background-size: cover;
     background-position: 50% 35%;
     height: 180px;
@@ -439,7 +439,7 @@ nav ul li a{
     margin-left: 20px;
 }
 .activity-3 .image3{
-    background: url(/images/activites/1_xlarge/Iles_du_frioul.jpg);
+    background: url(images/activites/1_xlarge/Iles_du_frioul.jpg);
     background-size: cover;
     background-position: 50% 8%;
     height: 110px;
@@ -450,7 +450,7 @@ nav ul li a{
     margin-left: 20px;
 }
 .activity-4 .image4{
-    background: url(/images/activites/1_xlarge/Parc_National.jpg);
+    background: url(images/activites/1_xlarge/Parc_National.jpg);
     background-size: 690px;
     filter: brightness(1.25);
     background-position: 50% 20%;
@@ -462,7 +462,7 @@ nav ul li a{
     margin-left: 20px;
 }
 .activity-5 .image5{
-    background: url(/images/activites/1_xlarge/Notre_Dame.jpg);
+    background: url(images/activites/1_xlarge/Notre_Dame.jpg);
     background-size: cover;
     height: 140px;
     border-radius: 15px 15px 0px 0px;
@@ -472,7 +472,7 @@ nav ul li a{
     margin-left: 20px;
 }
 .activity-6 .image6{
-    background: url(/images/activites/1_xlarge/Parc_Longchamp.jpg);
+    background: url(images/activites/1_xlarge/Parc_Longchamp.jpg);
     background-size: cover;
     background-position: 50% 10%;
     height: 150px;
